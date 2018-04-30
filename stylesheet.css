@@ -1,0 +1,25 @@
+img
+{
+	width:575px;
+	height:400px;
+}
+#headers
+{
+	color:#00ffff;
+	font-family: Verdana;
+}
+body
+{
+	background-color:#474141;
+	color:white;
+}
+a:hover
+{
+	color:yellow;
+	text-decoration: underline;
+}
+a:active
+{
+	color:#0ADA1E;
+	text-decoration:underline;
+}
